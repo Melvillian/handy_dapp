@@ -25,5 +25,5 @@ yarn-error.log*
 node_modules
 
 #Hardhat files
+src/artifacts
 cache
-artifacts
